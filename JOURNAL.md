@@ -10,8 +10,14 @@ This is my journal of the design and building process of **Midi-Keyboard**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/213).
 
 
-## 10/6/2025 - started the scematic  
+## 10/6/2025 12 AM - started the scematic  
 
 ![Screenshot 2025-10-05 205615.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjY5LCJwdXIiOiJibG9iX2lkIn19--552f8618e6d99aae4d5cc757f0c2f8be7d41b786/Screenshot%202025-10-05%20205615.png)
 I started making the schematic and started routing some of the wires to the pi Pico and I am starting to under stand what the tutorial is saying. I am also excited for the PCB design process that will happen soon! I am also wanting to maybe integrate a speaker, although that might not be the best idea.  
+
+## 10/6/2025 2 PM - finished the tutorial for building the schematic  
+
+I think that the schematic is finished although the tutorial was quite confusing at moments like adding audio and making sure that a the pin outs were in the right place. another thing that was quite annoying was the fact that the tutorial was kind of broad in its explanations, so I can't wait to see what comes next!
+![Screenshot 2025-10-06 104308.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYwLCJwdXIiOiJibG9iX2lkIn19--9e9a94db09eb61c032cea876a5ff672d8116245e/Screenshot%202025-10-06%20104308.png)
+  
 
