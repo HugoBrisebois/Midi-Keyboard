@@ -10,25 +10,33 @@ This is my journal of the design and building process of **Midi-Keyboard**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/213).
 
 
-## 10/6/2025 12 AM - started the scematic  
+## 10/5/2025 - started the scematic  
 
 ![Screenshot 2025-10-05 205615.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjY5LCJwdXIiOiJibG9iX2lkIn19--552f8618e6d99aae4d5cc757f0c2f8be7d41b786/Screenshot%202025-10-05%20205615.png)
 I started making the schematic and started routing some of the wires to the pi Pico and I am starting to under stand what the tutorial is saying. I am also excited for the PCB design process that will happen soon! I am also wanting to maybe integrate a speaker, although that might not be the best idea.  
 
-## 10/6/2025 2 PM - finished the tutorial for building the schematic  
+## 10/6/2025 - finished the tutorial for building the schematic  
 
 I think that the schematic is finished although the tutorial was quite confusing at moments like adding audio and making sure that a the pin outs were in the right place. another thing that was quite annoying was the fact that the tutorial was kind of broad in its explanations, so I can't wait to see what comes next!
 ![Screenshot 2025-10-06 104308.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYwLCJwdXIiOiJibG9iX2lkIn19--9e9a94db09eb61c032cea876a5ff672d8116245e/Screenshot%202025-10-06%20104308.png)
   
 
-## 10/9/2025 6 PM - finishing to route the PCB  
+## 10/9/2025 2 PM - finishing to route the PCB  
 
 I have finally gotten to the point of finishing the PCB, and I only have a few more fixes until i am done. The next thing that needs to be done is designing the case and then i am done. Although i said i might implement a speaker, i decided that it was better not to for costs and complexity. Although i have looked into trying this, i thought against this. another thing that i managed to do is have the correct footprint for the audio output thanks to Arghya Vyas![Screenshot 2025-10-09 143823.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--2de878a83950ea2d881f1ab929bef7774d4bb6c2/Screenshot%202025-10-09%20143823.png)
 
   
 
-## 10/9/2025 7 PM - Finished routing the PCB  
+## 10/9/2025 3 PM - Finished routing the PCB  
 
 i have finished the routing of the PCB and i am hoping that i can finish this project extremely soon. the 3D model of the PCB looks quite good too. although, i think that making the case should be the easiest part of the project, i honestly can't wait to start building the actual project and using it!![Screenshot 2025-10-09 152236.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--7a5b8729322077b4d4e7eddf3f628d2723b5c032/Screenshot%202025-10-09%20152236.png)
+  
+
+## 10/17/2025 - Finished the CAD files  
+
+At first, I had trouble loading the pcb into fusion 360 and that is why the time is so high, but i finally got it and spent a few hours working on the case so that it has clearance of the components as well as have the case have holes for all the keys, rotary encoders & all the ports that i am going to have.![Screenshot 2025-10-17 080505.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--4f660b0f1785601e40987fc0b9b24e18a8362301/Screenshot%202025-10-17%20080505.png)
+![Screenshot 2025-10-17 081040.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d71fa7d205e43111d3f82aaa4e031022ef475e8/Screenshot%202025-10-17%20081040.png)
+![Screenshot 2025-10-17 080538.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--1c9203eac3216ea18065e3b76e59e2850b8962db/Screenshot%202025-10-17%20080538.png)
+![Screenshot 2025-10-17 080517.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMywicHVyIjoiYmxvYl9pZCJ9fQ==--3dde0d9a382cb4e85203004bb5fff21305923a2b/Screenshot%202025-10-17%20080517.png)
   
 
