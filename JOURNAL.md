@@ -40,3 +40,8 @@ At first, I had trouble loading the pcb into fusion 360 and that is why the time
 ![Screenshot 2025-10-17 080517.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMywicHVyIjoiYmxvYl9pZCJ9fQ==--3dde0d9a382cb4e85203004bb5fff21305923a2b/Screenshot%202025-10-17%20080517.png)
   
 
+## 10/19/2025 - Finishing the BOM and getting ready to ship  
+
+I am starting to be in the final stretch of doing my first ship on a hardware project and I am extremely excited for this. I think that figuring out what the parts are included are and what isn't was quite frustrating but it should be fine for the BoM.![Screenshot 2025-10-18 173714.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c1dadd53f6e185078f4abff2805ef04d85efd0e0/Screenshot%202025-10-18%20173714.png)
+  
+
